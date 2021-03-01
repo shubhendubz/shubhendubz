@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 Welcome to My Github Folio
 
-<!--
-**shubhendubz/shubhendubz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on MERN Stack
+- 🌱 I’m currently learning React JS
+- 👯 I’m looking to collaborate on Web App using MEAN/MERN
+- 🤔 I’m looking for help with Node JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<summary> 😇 <b> My Github Stats</b>: </summary>
+<br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shubhendubz&show_icons=true&theme=synthwave&line_height=27">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhendubz&theme=synthwave">
+</p>
+
